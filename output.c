@@ -1,3 +1,8 @@
+/* 
+File that holds functions to create the output files (if needed) - ext, ent and ob files.
+The file also translates the binary code to hexadecimal as needed for output
+*/
+
 #include "output.h"
 
 void forward_line(int address, FILE * file)
