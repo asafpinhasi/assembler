@@ -1,6 +1,6 @@
 /*
-This file holds functions to deal with the data structure that holds external commands.
-It holds both the line of the address of the command in memory and the name of the external variable.
+This file holds functions to deal correctly with the data structure (linked list) that holds external commands.
+It holds both the address of the command in memory and the name of the external variable.
 Later it will be put into an output file.
 */
 
