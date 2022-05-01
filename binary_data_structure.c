@@ -1,3 +1,8 @@
+/* 
+This file holds functions to deal with the binary data structures. 
+These data structures will later be rearranged to be the output of the assembler 
+*/
+
 #include "binary_data_structure.h"
 #include "external_data_structure.h"
 #include "constants.h"
