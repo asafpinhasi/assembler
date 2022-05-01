@@ -1,3 +1,8 @@
+/*
+This file holds functions to deal with the data structure that holds the labels as a linked list.
+The data structure holds the labels and their adresses in memory, and is filled in the first pass.
+*/
+
 #include "label_data_structure.h"
 #include "constants.h"
 
