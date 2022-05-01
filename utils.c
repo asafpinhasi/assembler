@@ -1,3 +1,8 @@
+/*
+The file holds general util functions for the project - initiating and freeing data structures, 
+or dealing with global variables of the program.
+*/
+
 #include "utils.h"
 
 
