@@ -1,7 +1,7 @@
 /* 
-This file holds functions to deal with the binary data structures. 
-The binary data structures holds in machine code the coding of the commands.
-This data structures will later be translated to be the output of the assembler.
+This file holds functions to deal with the binary data structure correctly (while freeing memory etc.). 
+The binary data structures holds as a linked list the machine code of the commeand coding.
+The machine code will later be translated to be the output of the assembler.
 */
 
 #include "binary_data_structure.h"
